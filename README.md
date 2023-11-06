@@ -61,7 +61,9 @@ Don't forget to:
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
 |  🤑 | [DevUtils](https://devutils.com) | All-in-one toolbox for developers. Fully supports Apple Silicon & macOS Ventura. | 50% OFF with code **BLACKFRIDAY_2023** |
-
+|  🤑 | [Find My Ports](https://findmyports.com) | Manage all your open development ports, resolve conflicts, and Vercel deployment status integration. Supports Apple Silicon & macOS Sonoma+. | 50% OFF with code **`BLACKFRIDAY2023`** |
+|  💰 | [Proxyman](https://proxyman.io/) | Debug Network HTTP/HTTPS Faster & Smarter with Proxyman. Support Apple Silicon & macOS Sonoma. Run on macOS, iOS, Windows, and Linux. | 20% OFF with code **PROXYMAN_BLACKFRIDAY_2023** |
+|  🤑 | [Dotenv](https://dotenv.org) | Secrets for developers. Sync your .env files across machines, environments, and team members. | 25% OFF forever with code **BLACKFRIDAY_2023** Sign up and then email [support@dotenv.org](mailto:support@dotenv.org) with the code. |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -75,6 +77,8 @@ Don't forget to:
 | 🤑 | [ChatHub](https://chathub.gg/?utm_source=awesomebf) | All-in-one AI chatbot client. It allows you to chat with ChatGPT, Bing, Bard, Claude and more chatbots simultaneously. No monthly fee, buy once, use forever. | Enjoy 30% off with this discount code **`BLACKFRIDAY2023`**
 | 🤑 | [Writers brew](https://writersbrew.app) | An AI writing assistant app for Mac. It works across your macOS. It has 50+ writing tools, presets, utilities, OCR etc | Get 50% OFF - Discount auto-applied**
 | 🤑 | [JSON Data AI](https://jsondataai.com) | Create AI-generated API endpoints. Get JSON data about anything with a prompt. Turn it into an API endpoint. Start fetching. | Enjoy 50% off with this discount code **`BLACKFRIDAY50`** |
+| 🤑 | [VectorArt.ai](https://vectorart.ai?ref=awesomebf) | Create vector images with AI. Use the power of generative AI to create infinitely scalable vector images, logos, icons and illustrations for your website, business or app. | Enjoy 50% off with this discount code **`BFF2023`**
+| 🤑 | [Deutsch Mentor](https://www.deutsch-mentor.com/en) | Experience a revolutionary way to learn German with the power of AI. Join Deutsch Mentor and learn German with a tutor that is always available for you. | The 50% discount will be available from 24 to 27 November directly on the webpage
 
 [⬆️ Go to Top](#table-of-contents)
 
